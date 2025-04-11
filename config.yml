@@ -1,0 +1,7 @@
+bedrock:
+  port: 19132
+  address: 0.0.0.0
+remote:
+  port: 25565
+  address: 127.0.0.1
+  auth-type: floodgate
